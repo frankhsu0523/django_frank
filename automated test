@@ -1,0 +1,8 @@
+What are automated tests?
+
+	Tests are simple routines that check the operation of your code.What’s different in automated tests is that the testing work is done for you by the system.
+
+Basic testing strategies
+
+	test-driven development, they actually write their tests before they write their code.
+
